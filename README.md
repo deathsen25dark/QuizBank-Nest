@@ -52,6 +52,7 @@ JWT_REFRESH_SECRET=super_refresh_secret
 ```
 
 ⚠️ Lưu ý:  
+Bạn cần tạo database quiz_bank.
 Bạn cần chỉnh sửa thông tin **database** cho phù hợp với máy của mình.
 
 ---
