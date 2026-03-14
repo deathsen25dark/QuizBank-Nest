@@ -26,7 +26,6 @@ yarn install
 Tạo file `.env` ở thư mục root và thêm các biến sau:
 
 ```env
-PORT=3001
 
 DB_HOST=localhost
 DB_PORT=3306
@@ -41,7 +40,6 @@ JWT_REFRESH_SECRET=your_secret_key
 Ví dụ:
 
 ```env
-PORT=3001
 
 DB_HOST=localhost
 DB_PORT=3306
